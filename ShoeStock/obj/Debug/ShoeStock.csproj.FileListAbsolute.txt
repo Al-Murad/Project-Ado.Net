@@ -1,0 +1,294 @@
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.exe.config
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.exe
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.pdb
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.exe
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.pdb
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\AxShockwaveFlashObjects.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.Shared.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\stdole.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.CopyComplete
+D:\R50\Module 05\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.exe.config
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.exe
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.pdb
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.Shared.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\stdole.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.csproj.CopyComplete
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.exe
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.pdb
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock.mdf
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\bin\Debug\ShoeStock_log.ldf
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ModelAdd.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ModelEdit.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.ModelView.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.BrandAdd.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.BrandEdit.resources
+D:\R52\M5\Projects\ShoeStock_Solution\ShoeStock\obj\Debug\ShoeStock.BrandView.resources
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\ShoeStock.mdf
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\ShoeStock_log.ldf
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\ShoeStock.exe.config
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\ShoeStock.exe
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\ShoeStock.pdb
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.Shared.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\stdole.dll
+D:\R52\M5\Projects\1270381\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.BrandAdd.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.BrandEdit.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.BrandView.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ModelAdd.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ModelEdit.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ModelView.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.csproj.CopyComplete
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.exe
+D:\R52\M5\Projects\1270381\ShoeStock\obj\Debug\ShoeStock.pdb
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\ShoeStock.mdf
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\ShoeStock_log.ldf
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\ShoeStock.exe.config
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\ShoeStock.exe
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\ShoeStock.pdb
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.Shared.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\stdole.dll
+D:\R54\M5\Projects\5\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.csproj.SuggestedBindingRedirects.cache
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.BrandAdd.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.BrandEdit.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.BrandView.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ModelAdd.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ModelEdit.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ModelView.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.csproj.CopyComplete
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.exe
+D:\R54\M5\Projects\5\ShoeStock\obj\Debug\ShoeStock.pdb
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\ShoeStock.mdf
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\ShoeStock_log.ldf
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\ShoeStock.exe.config
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\ShoeStock.exe
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\ShoeStock.pdb
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportSource.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.Shared.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\stdole.dll
+J:\R54\M5\Projects\1273288\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.BrandAdd.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.BrandEdit.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.BrandView.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ModelAdd.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ModelEdit.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ModelView.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.csproj.CopyComplete
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.exe
+J:\R54\M5\Projects\1273288\ShoeStock\obj\Debug\ShoeStock.pdb
+H:\murad\ShoeStock\bin\Debug\ShoeStock.mdf
+H:\murad\ShoeStock\bin\Debug\ShoeStock_log.ldf
+H:\murad\ShoeStock\bin\Debug\ShoeStock.exe.config
+H:\murad\ShoeStock\bin\Debug\ShoeStock.exe
+H:\murad\ShoeStock\bin\Debug\ShoeStock.pdb
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.Shared.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\murad\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\murad\ShoeStock\bin\Debug\stdole.dll
+H:\murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\murad\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+H:\murad\ShoeStock\obj\Debug\ShoeStock.csproj.SuggestedBindingRedirects.cache
+H:\murad\ShoeStock\obj\Debug\ShoeStock.BrandAdd.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.BrandEdit.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.BrandView.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ModelAdd.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ModelEdit.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ModelView.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+H:\murad\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+H:\murad\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+H:\murad\ShoeStock\obj\Debug\ShoeStock.csproj.CopyComplete
+H:\murad\ShoeStock\obj\Debug\ShoeStock.exe
+H:\murad\ShoeStock\obj\Debug\ShoeStock.pdb
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\ShoeStock.mdf
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\ShoeStock_log.ldf
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\ShoeStock.exe.config
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\ShoeStock.exe
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\ShoeStock.pdb
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\ShockwaveFlashObjects.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\stdole.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.csproj.AssemblyReference.cache
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.BrandAdd.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.BrandEdit.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.BrandView.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.MasterForm.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ModelAdd.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ModelEdit.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ModelView.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.Properties.Resources.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ReportForm1.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ReportForm2.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ShoeAdd.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.ShoeEdit.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.StockAdd.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.StockEdit.resources
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.csproj.GenerateResource.cache
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.csproj.CoreCompileInputs.cache
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.exe
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.pdb
+D:\MD.AL-MURAD\project_collection\project_Ado.net_form_Al-Murad\ShoeStock\obj\Debug\ShoeStock.csproj.Up2Date
